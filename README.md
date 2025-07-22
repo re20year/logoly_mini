@@ -32,8 +32,10 @@ Looking for a full-featured web version?
 
 👉 Check out Logoly Pro
 
-赞赏
-![411492dc078e2d5ce49ffbd58a27f67](https://github.com/user-attachments/assets/fbd62d07-e639-4380-bd08-d9389ae443f9)
+☕ Support & Sponsor
+If this project helps you or brings you value, feel free to buy me a coffee ☕ and keep the motivation going ❤️
+
+<p align="center"> <img src="https://github.com/user-attachments/assets/fbd62d07-e639-4380-bd08-d9389ae443f9" width="200" alt="赞赏二维码" /> </p> <p align="center"> <b>WeChat / Alipay supported</b><br> Thank you for your generosity 🙏 </p>
 
 📄 License
 MIT © 2025
