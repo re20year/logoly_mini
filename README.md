@@ -1,30 +1,33 @@
-# logoly_mini
-Logoly —— A Pornhub Flavour Logo Generator mini-program
-A Simple Online Logo Generator for People Who Want to Design Logos Easily.
+🎨 Logoly Mini — A Pornhub-Style Logo Generator
+Logoly Mini is a simple online mini-program that allows anyone to generate stylish logos inspired by Pornhub, OnlyFans, and other iconic brands — all from your phone or desktop.
 
-Screenshot
-<img width="1552" height="3317" alt="2f356a838a0320a9624979395b46cfa" src="https://github.com/user-attachments/assets/827e745c-755d-4d73-a791-079127a8d26c" />
-<img width="1552" height="3317" alt="2ea6ffda92ed6ce0855528b6031bcb9" src="https://github.com/user-attachments/assets/4df2b888-dbe5-403e-92ba-52d50f5d9a99" />
-<img width="1552" height="3317" alt="abe893071a36fb13d03b65c816d9cc3" src="https://github.com/user-attachments/assets/0a66f8b2-633f-47b7-a29d-898ca3a852f9" />
+✨ Features
+🔥 Generate logos in Pornhub / OnlyFans style
 
+🎨 Customize text color
 
-Features
-generate logo like PornHub or OnlyFans
-download your own logo in PNG/SVG format
-customize logo color
-customize logo font size
-How to Use
-Scan this QR code with WeChat
+🔠 Adjust font size
 
-![gh_b943f568e069_344](https://github.com/user-attachments/assets/33e4dd7c-71f1-444c-8f4f-7995f63254de)
+📥 Download in PNG or SVG formats
 
-edit the text in the box
-change color & font size as you like
-click the Export button to download the image
+📱 Easy to use on WeChat Mini-Program
 
-TODO
-customize fonts
+📸 Screenshots
+<p align="center"> <img src="https://github.com/user-attachments/assets/827e745c-755d-4d73-a791-079127a8d26c" width="300" /> <img src="https://github.com/user-attachments/assets/4df2b888-dbe5-403e-92ba-52d50f5d9a99" width="300" /> <img src="https://github.com/user-attachments/assets/0a66f8b2-633f-47b7-a29d-898ca3a852f9" width="300" /> </p>
+📲 How to Use
+Scan the QR Code below using WeChat
 
-Related Project
+Input your desired text
 
-https://github.com/LunaYJ/logoly-pro
+Customize color & font size
+
+Tap Export to download your custom logo
+
+<p align="center"> <img src="https://github.com/user-attachments/assets/33e4dd7c-71f1-444c-8f4f-7995f63254de" width="200" /> </p>
+📌 TODO
+ Add custom font selection
+
+🧩 Related Project
+Looking for a full-featured web version?
+
+👉 Check out Logoly Pro
