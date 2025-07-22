@@ -1,33 +1,66 @@
-🎨 Logoly Mini — A Pornhub-Style Logo Generator
-Logoly Mini is a simple online mini-program that allows anyone to generate stylish logos inspired by Pornhub, OnlyFans, and other iconic brands — all from your phone or desktop.
+<img align="right" src="https://postimg.aliavv.com/mbp/adpsj.png"/>
 
-✨ Features
-🔥 Generate logos in Pornhub / OnlyFans style
+# Logoly —— A Pornhub Flavour Logo Generator
 
-🎨 Customize text color
+![](https://img.shields.io/badge/Deployed%20on-Vercel-9cf) ![GitHub last commit](https://img.shields.io/github/last-commit/bestony/logoly.svg) ![GitHub issues](https://img.shields.io/github/issues/bestony/logoly.svg) ![GitHub stars](https://img.shields.io/github/stars/bestony/logoly.svg?style=social)
 
-🔠 Adjust font size
+**A Simple Online Logo Generator for People Who Want to Design Logos Easily.**
 
-📥 Download in PNG or SVG formats
+## Screenshot
 
-📱 Easy to use on WeChat Mini-Program
+![](https://i.loli.net/2019/03/24/5c96e02e97aff.png)
 
-📸 Screenshots
-<p align="center"> <img src="https://github.com/user-attachments/assets/827e745c-755d-4d73-a791-079127a8d26c" width="30%" /> <img src="https://github.com/user-attachments/assets/4df2b888-dbe5-403e-92ba-52d50f5d9a99" width="30%" /> <img src="https://github.com/user-attachments/assets/0a66f8b2-633f-47b7-a29d-898ca3a852f9" width="30%" /> </p>
-📲 How to Use
-Scan the QR Code below using WeChat
+## Features
 
-Input your desired text
+- generate logo like **PornHub** or **OnlyFans**
+- download your own logo in PNG/SVG format
+- customize logo color
+- customize logo font size
 
-Customize color & font size
+## How to Use
 
-Tap Export to download your custom logo
+1. open the Logoly website: [https://logoly.pro/](https://logoly.pro/)
+2. edit the text in the box
+3. change color & font size as you like
+4. click the **Export** button to download the image
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/33e4dd7c-71f1-444c-8f4f-7995f63254de" width="200" /> </p>
-📌 TODO
- Add custom font selection
+## TODO
 
-🧩 Related Project
-Looking for a full-featured web version?
+- share it on Facebook
+- customize fonts
 
-👉 Check out Logoly Pro
+## Changelog
+
+See [Changelog](Changelog.md)
+
+## How to Contribute
+
+For those who want to request new features or submit bug reports, click [this link](https://github.com/bestony/logoly/issues/new/choose) to open a new issue.
+
+For those who want to play around with this project, read the `Get Started` section.
+
+At the end of this section, I suggest you read the [Contributing Guide](Contributing.md).
+
+## Requirements
+
+- Node.js
+
+## Get Started
+
+1. clone this project
+2. install dependencies with `npm install` at the project root directory
+3. start the development server with `npm run dev`
+4. make changes
+5. build with `npm run build`
+
+## Related Project
+
+- [Logoly.pro MiniProgram](https://github.com/GHLandy/logoly-pro)
+
+## Sponsors
+
+[<img src="https://postimg.aliavv.com/picgo/20190331211014.png" height=40>](http://www.leancloud.app/)
+
+## LICENSE
+
+[WTFPL 2](LICENSE)
