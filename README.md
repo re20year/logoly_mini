@@ -36,7 +36,7 @@ Looking for a full-featured web version?
 If this project helps you or brings you value, feel free to buy me a coffee ☕ and keep the motivation going ❤️
 
 <p align="center"> 
- <img src="[https://github.com/user-attachments/assets/33e4dd7c-71f1-444c-8f4f-7995f63254de](https://github.com/user-attachments/assets/b6f03c4c-0063-4fcf-bc51-35fe24202b57)" width="200" /> 
+ <img src="https://github.com/user-attachments/assets/b6f03c4c-0063-4fcf-bc51-35fe24202b57" width="200" /> 
 
 
  </p> <p align="center"> <b>WeChat / Alipay supported</b><br> Thank you for your generosity 🙏 </p>
