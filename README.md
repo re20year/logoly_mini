@@ -35,7 +35,8 @@ Looking for a full-featured web version?
 ☕ Support & Sponsor
 If this project helps you or brings you value, feel free to buy me a coffee ☕ and keep the motivation going ❤️
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/fbd62d07-e639-4380-bd08-d9389ae443f9" width="200" alt="赞赏二维码" /> </p> <p align="center"> <b>WeChat / Alipay supported</b><br> Thank you for your generosity 🙏 </p>
+<p align="center"> ![dc1960ba23088d1ed7ed3f5422a9c94](https://github.com/user-attachments/assets/1303833f-d643-45a3-92de-8b0a0281df92)
+ </p> <p align="center"> <b>WeChat / Alipay supported</b><br> Thank you for your generosity 🙏 </p>
 
 📄 License
 MIT © 2025
