@@ -13,7 +13,7 @@ Logoly Mini is a simple online mini-program that allows anyone to generate styli
 📱 Easy to use on WeChat Mini-Program
 
 📸 Screenshots
-<p align="center"> <img src="https://github.com/user-attachments/assets/827e745c-755d-4d73-a791-079127a8d26c" width="300" /> <img src="https://github.com/user-attachments/assets/4df2b888-dbe5-403e-92ba-52d50f5d9a99" width="300" /> <img src="https://github.com/user-attachments/assets/0a66f8b2-633f-47b7-a29d-898ca3a852f9" width="300" /> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/827e745c-755d-4d73-a791-079127a8d26c" width="30%" /> <img src="https://github.com/user-attachments/assets/4df2b888-dbe5-403e-92ba-52d50f5d9a99" width="30%" /> <img src="https://github.com/user-attachments/assets/0a66f8b2-633f-47b7-a29d-898ca3a852f9" width="30%" /> </p>
 📲 How to Use
 Scan the QR Code below using WeChat
 
