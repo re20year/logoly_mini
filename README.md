@@ -12,6 +12,7 @@ customize logo color
 customize logo font size
 How to Use
 Scan this QR code with WeChat
+
 ![gh_b943f568e069_344](https://github.com/user-attachments/assets/33e4dd7c-71f1-444c-8f4f-7995f63254de)
 
 edit the text in the box
