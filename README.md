@@ -35,7 +35,10 @@ Looking for a full-featured web version?
 ☕ Support & Sponsor
 If this project helps you or brings you value, feel free to buy me a coffee ☕ and keep the motivation going ❤️
 
-<p align="center"> ![dc1960ba23088d1ed7ed3f5422a9c94](https://github.com/user-attachments/assets/1303833f-d643-45a3-92de-8b0a0281df92)
+<p align="center"> 
+ <img src="[https://github.com/user-attachments/assets/33e4dd7c-71f1-444c-8f4f-7995f63254de](https://github.com/user-attachments/assets/b6f03c4c-0063-4fcf-bc51-35fe24202b57)" width="200" /> 
+
+
  </p> <p align="center"> <b>WeChat / Alipay supported</b><br> Thank you for your generosity 🙏 </p>
 
 📄 License
