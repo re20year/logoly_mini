@@ -32,6 +32,9 @@ Looking for a full-featured web version?
 
 👉 Check out Logoly Pro
 
+赞赏
+![411492dc078e2d5ce49ffbd58a27f67](https://github.com/user-attachments/assets/fbd62d07-e639-4380-bd08-d9389ae443f9)
+
 📄 License
 MIT © 2025
 
